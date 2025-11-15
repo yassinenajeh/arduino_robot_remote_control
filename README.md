@@ -45,6 +45,10 @@ Emergency stop button on the application
 ## 🧰 Mechanical Design (SolidWorks)
 
 The robot chassis was fully modeled in SolidWorks to test balance, weight distribution, and motor placement before physical assembly.
+<img width="1013" height="784" alt="solidworks_model" src="https://github.com/user-attachments/assets/5300fc4f-d2be-43d9-908b-bf60fc17b97e" />
+<img width="658" height="806" alt="solidworks_model2" src="https://github.com/user-attachments/assets/4209f686-e39a-467e-932f-dcb947035038" />
+<img width="1059" height="473" alt="solidworks_model3" src="https://github.com/user-attachments/assets/5c34528f-6442-44c9-8d14-60c25b095caf" />
+<img width="1011" height="438" alt="solidworks_model4" src="https://github.com/user-attachments/assets/54248497-39ea-4b3b-834a-37cfed4c1a7e" />
 
 ## 💾 Arduino Code Example
 
